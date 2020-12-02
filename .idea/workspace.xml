@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c001dce-c6a3-426b-bf4b-1d5c291b4945" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/cicd/learn/tp1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cicd/learn/tp1/App.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,6 +24,7 @@
   <component name="ProjectId" id="1jk1QEGqc10hVqp6QVJgRwiNH2A" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -73,7 +75,7 @@
       <updated>1604333257345</updated>
       <workItem from="1604333260123" duration="1003000" />
       <workItem from="1604334298608" duration="912000" />
-      <workItem from="1604475789360" duration="724000" />
+      <workItem from="1606898138893" duration="1709000" />
     </task>
     <servers />
   </component>
